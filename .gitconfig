@@ -1,0 +1,15 @@
+[color]
+	ui = auto
+[user]
+	email = kae@kfwls.co
+	name = Kaelan Fouwels
+	signingkeygpg = --list-keys
+	signingkey = 3DE5E72B
+[credential]
+	helper = osxkeychain
+[push]
+	default = simple
+[commit]
+	gpgsign = true
+[core]
+	excludesfile = /Users/Kae/.gitignore_global
