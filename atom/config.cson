@@ -1,0 +1,29 @@
+"*":
+  core:
+    disabledPackages: [
+      "node-debugger"
+      "markdown-preview"
+      "linter-bootlint"
+      "linter-csslint"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    showInvisibles: true
+    tabType: "hard"
+  "exception-reporting":
+    userId: "40eb2859-be1a-d645-23f2-d8ef9a9565b4"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  linter:
+    errorPanelHeight: 345
+  "linter-clang": {}
+  "linter-jshint":
+    disableWhenNoJshintrcFileInPath: false
+    lintInlineJavaScript: true
+  "node-debugger":
+    nodePath: "/usr/local/bin/node"
+  "save-session":
+    dataSaveFolder: "/Users/Kae/.atom/packages/save-session/projects"
+  welcome:
+    showOnStartup: false
