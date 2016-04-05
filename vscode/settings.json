@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.insertSpaces": false,
+	"editor.quickSuggestionsDelay": 5,
+	"editor.formatOnType": true,
+	"editor.renderWhitespace": true,
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false
+}
